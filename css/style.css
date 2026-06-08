@@ -1,20 +1,4 @@
-/* =====================================================================
-   DARK ORBIT BR — Sistema de Design
-   FED (Front-End Design) · Global Solution 2026 · FIAP
-   Tema: Centro de Controle, modo noturno.
-   Estrutura do arquivo:
-     1. Tokens (variáveis de design)
-     2. Reset e base
-     3. Tipografia
-     4. Layout (shell, sidebar, topbar, grid, footer)
-     5. Componentes (cards, status, telemetria, tabelas, botões,
-        formulários, alertas, mapa orbital, timeline)
-     6. Utilitários
-     7. Animações
-     8. Responsividade (breakpoints)
-   ===================================================================== */
-
-/* ============================ 1. TOKENS ============================= */
+﻿/* ============================ 1. TOKENS ============================= */
 :root {
   /* --- Cor: superfícies (espaço profundo) --- */
   --c-void:      #060912;

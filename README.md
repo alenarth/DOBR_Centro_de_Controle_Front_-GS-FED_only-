@@ -96,7 +96,3 @@ projeto-frontend-space/
 ```
 
 ---
-
-## 8. Próximo passo (Web Development)
-
-Esta entrega termina na **estrutura e no estilo**. A interatividade virá na disciplina de Web Development, e as telas já foram preparadas para recebê-la: validação do formulário de login, atualização dos dados em tela (de "seguro" para "perigo"), ações dos botões de manobra e contadores/alertas em tempo real.
